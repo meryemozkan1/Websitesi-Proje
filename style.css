@@ -45,8 +45,8 @@ body{
 
 .galeri{
    background-color: #f2f2f2;
-   width: 100vw important;
-   margin-left:-200px  important;
+    width: 100%;
+    margin: 0 auto;
 }
 
 .figure :hover{
